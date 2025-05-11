@@ -94,7 +94,7 @@ For each tweet T_j, compute a mean score across models.
 
 #### Data
 
-- *Training:* Global News Sentiment Dataset (Kaggle)
+- *Training:* combination of multiple data resorces
 - *Target:* BJP-related headlines scraped from NDTV, TOI
 
 *Preprocessing:*
